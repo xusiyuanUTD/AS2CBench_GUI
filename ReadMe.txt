@@ -1,0 +1,1 @@
+A Graphical User Interface (GUI) for the AS2Cbenchs have also be created to allow its easier use. The package comes with a .rbf (raw bianry file) which when copied to the SD card automatically configures the FPGA when booting it with ten of the AS2Cbench benchmarks.
